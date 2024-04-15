@@ -1,7 +1,8 @@
 
 # 3D Tic-Tac-Toe Game
-![Screenshot_1](https://github.com/SouthPaw47/3DTicTacToe/assets/126521294/5d094839-9e3e-4f75-9e04-8d6db24b91f6)
 
+
+![3dtictactoe (1)](https://github.com/SouthPaw47/3DTicTacToe/assets/126521294/5092f4a2-1ebd-4e49-b931-eab55d5635fe)
 
 
 This is a Python implementation of a 3D Tic-Tac-Toe game where two players take turns placing their symbols (X or O) on a 3x3x3 grid. The objective is to get three symbols in a row, column, or diagonal across any of the three grids.
